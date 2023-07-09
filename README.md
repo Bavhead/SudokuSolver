@@ -13,7 +13,7 @@ Supports the following algorithms or any combination:
 ## Installation
 Ensure [Python](https://www.python.org/downloads/) (version 3.8 and greater) is installed.
 
-Simply clone the repository to the intended location.
+Then, clone the repository to the intended location.
 
 ## Usage
 To run, call
