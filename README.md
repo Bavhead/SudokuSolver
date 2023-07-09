@@ -16,4 +16,4 @@ python3 Main.py <path_to_board_text_file_if_any> <FC|NOR> <MRV|MAD> <LCV>
 ```
 
 If any heuristic is omitted, the default will be used. 
-The default board's size can be changed in `Main.py` with the format '(rows, columns, given_values)'
+The default board's size can be changed in `Main.py` with the format `(rows, columns, given_values)`
