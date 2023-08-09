@@ -10,10 +10,6 @@ import BTSolver
 import Trail
 import time
 
-"""
-    Main driver file, which is responsible for interfacing with the
-    command line and properly starting the backtrack solver.
-"""
 
 def main ( ):
     args = sys.argv
