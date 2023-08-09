@@ -3,10 +3,7 @@ import Constraint
 import SudokuBoard
 from math import floor
 
-"""
-    CSP representation of the problem. Contains the variables, constraints, and
-    many helpful accessors.
-"""
+
 class ConstraintNetwork:
 
     # ==================================================================
