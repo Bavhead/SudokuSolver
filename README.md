@@ -13,7 +13,7 @@ Supports the following algorithms or any combination:
 ## Installation
 Ensure [Python](https://www.python.org/downloads/) (version 3.8 and greater) is installed.
 
-Then, clone the repository to the intended location.
+Then, clone the repository.
 
 ## Usage
 To run, call
@@ -22,4 +22,4 @@ python3 src/Main.py <path_to_board_text_file_if_any> <FC|NOR> <MRV|MAD> <LCV>
 ```
 
 If any heuristic is omitted, the default will be used. 
-The default board's size can be changed in `Main.py` with the format `(rows, columns, given_values)`
+The size of the Sudoku can be changed in `Main.py` with the format `(rows, columns, given_values)`
